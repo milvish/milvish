@@ -16,7 +16,7 @@
 
 #### ObjectDetection
 * Mobile application for the Android platform for object detection (banknotes, credit cards, coins).
-* [[Source](https://github.com/milvish/ObjectDetection). Stack: `Python`, `PyTorch`, `Kotlin` 
+* [Source](https://github.com/milvish/ObjectDetection). Stack: `Python`, `PyTorch`, `Kotlin` 
 
 
 

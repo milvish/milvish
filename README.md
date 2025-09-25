@@ -5,9 +5,6 @@
 - 🏠 Moscow, Russia
 - 🌍 Languages: **Russian** (_Native_), **English** (_Intermediate_), **Chinese**(_HSK3_)
 
-### ✉ Contact me
-- Telegram: [@u_lizina](https://t.me/u_lizina)
-
 ### My projects
 
 #### Magisterskaya_AndroidChineseApp
